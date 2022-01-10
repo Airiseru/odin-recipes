@@ -19,3 +19,12 @@ body {
     font-size: 24px;
     color: #d33f49;
 }
+
+.sub-title {
+    font-size: 30px;
+    color: #d33f49;
+}
+
+a {
+    font-weight: bold;
+}
